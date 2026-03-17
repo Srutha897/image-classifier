@@ -5,7 +5,7 @@
 A deep learning web app that classifies images into 10 categories.
 
 ## 🚀 Live Demo
-[Click here to try it!]([https://huggingface.co/spaces/srutha4/cifar10-image-classifier])
+[Click here to try it!](https://huggingface.co/spaces/srutha4/cifar10-image-classifier)
 
 ## 📊 Model Performance
 - Dataset: CIFAR-10 (60,000 images, 10 classes)
